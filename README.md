@@ -23,6 +23,6 @@ ___
   * In the CSF data, the training set uniformly uses 297_CSF, while the test set uses CSF data from other articles.
   * In the DLPFC data, the 182_DLPFC dataset is divided into training and test sets.  
   * Running this script produces the AUC value, accuracy value, ROC curve, confusion matrix, and PCA scatter plot.
-* model_train_test_from_our.ipynb
+* model_train_test_from_elisa.ipynb
   * the training set uniformly uses 297_CSF, while the test set uses CSF data from ELISA test.
   * Running this script produces the accuracy value.
